@@ -1,0 +1,13 @@
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\bin\Release\netcoreapp3.1\MyFirstConsole.exe
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\bin\Release\netcoreapp3.1\MyFirstConsole.deps.json
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\bin\Release\netcoreapp3.1\MyFirstConsole.runtimeconfig.json
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\bin\Release\netcoreapp3.1\MyFirstConsole.runtimeconfig.dev.json
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\bin\Release\netcoreapp3.1\MyFirstConsole.dll
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\bin\Release\netcoreapp3.1\MyFirstConsole.pdb
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.csprojAssemblyReference.cache
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.AssemblyInfoInputs.cache
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.AssemblyInfo.cs
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.csproj.CoreCompileInputs.cache
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.dll
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.pdb
+C:\codes\C#\C#\FirstConsole\MyFirstConsole\MyFirstConsole\obj\Release\netcoreapp3.1\MyFirstConsole.genruntimeconfig.cache

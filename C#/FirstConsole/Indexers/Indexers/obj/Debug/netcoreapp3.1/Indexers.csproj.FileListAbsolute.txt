@@ -1,0 +1,13 @@
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csprojAssemblyReference.cache
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\codes\C#\C#\FirstConsole\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache

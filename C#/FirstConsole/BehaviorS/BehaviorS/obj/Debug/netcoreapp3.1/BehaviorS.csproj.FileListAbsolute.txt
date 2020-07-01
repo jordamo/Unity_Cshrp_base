@@ -1,0 +1,13 @@
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\bin\Debug\netcoreapp3.1\BehaviorS.exe
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\bin\Debug\netcoreapp3.1\BehaviorS.deps.json
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\bin\Debug\netcoreapp3.1\BehaviorS.runtimeconfig.json
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\bin\Debug\netcoreapp3.1\BehaviorS.runtimeconfig.dev.json
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\bin\Debug\netcoreapp3.1\BehaviorS.dll
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\bin\Debug\netcoreapp3.1\BehaviorS.pdb
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.csprojAssemblyReference.cache
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.AssemblyInfoInputs.cache
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.AssemblyInfo.cs
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.csproj.CoreCompileInputs.cache
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.dll
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.pdb
+C:\codes\C#\C#\FirstConsole\BehaviorS\BehaviorS\obj\Debug\netcoreapp3.1\BehaviorS.genruntimeconfig.cache
