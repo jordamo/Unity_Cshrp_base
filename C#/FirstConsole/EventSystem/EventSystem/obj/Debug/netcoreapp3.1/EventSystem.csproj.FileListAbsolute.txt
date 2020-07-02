@@ -1,0 +1,13 @@
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\bin\Debug\netcoreapp3.1\EventSystem.exe
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\bin\Debug\netcoreapp3.1\EventSystem.deps.json
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\bin\Debug\netcoreapp3.1\EventSystem.runtimeconfig.json
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\bin\Debug\netcoreapp3.1\EventSystem.runtimeconfig.dev.json
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\bin\Debug\netcoreapp3.1\EventSystem.dll
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\bin\Debug\netcoreapp3.1\EventSystem.pdb
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.csprojAssemblyReference.cache
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.AssemblyInfoInputs.cache
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.AssemblyInfo.cs
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.csproj.CoreCompileInputs.cache
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.dll
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.pdb
+C:\codes\C#\C#\FirstConsole\EventSystem\EventSystem\obj\Debug\netcoreapp3.1\EventSystem.genruntimeconfig.cache
