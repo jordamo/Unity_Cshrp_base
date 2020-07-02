@@ -38,11 +38,14 @@ namespace EventSystem
         
         static void Test_onSpacePressed_Event_My(object sender, MyEventArgs e)
         {
+            Console.WriteLine($"==Test_onSpacePressed_Event_My==");
+
             Console.WriteLine($"Sender = {sender} and e = {e}, so e.time = {e.Time} & e.name = {e.Name}");
         }
 
         static void Test_onSpacePressed_Event(object sender, EventArgs e)
         {
+            Console.WriteLine($"==Test_onSpacePressed_Event==");
             Console.WriteLine($"Sender = {sender} and e = {e}");
         }
 
@@ -50,6 +53,7 @@ namespace EventSystem
         static void Main()
         {
             onSpacePressed += Test_onSpacePressed_Event;
+            onSpacePressed_2 += Test_onSpacePressed_Event;
             onSpacePressed_2 += Test_onSpacePressed_Event_My;
             int key_p;
             do
@@ -62,13 +66,13 @@ namespace EventSystem
                 }
                 else if (key_p.ToString() == "115")
                 {
-                    if (onSpacePressed_2 != null) onSpacePressed_2("This", new MyEventArgs(System.DateTime.Now.ToString(), "My Sec Name"));
+                    if (onSpacePressed_2 != null) onSpacePressed_2("Pressed 's'", new MyEventArgs(System.DateTime.Now.ToString(), "My Sec Name"));
                 }else if (key_p.ToString() == "100")
                 {
                     onSpacePressed?.Invoke("This2", EventArgs.Empty);
                 } else if (key_p.ToString() == "102")
                 {
-                    if (onSpacePressed_2 != null) onSpacePressed_2("This", new MyEventArgs(System.DateTime.Now.ToString()));
+                    if (onSpacePressed_2 != null) onSpacePressed_2("Pressed 'f'", new MyEventArgs(System.DateTime.Now.ToString()));
                 }
 
                 Console.ReadLine();
