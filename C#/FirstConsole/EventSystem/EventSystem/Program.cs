@@ -2,6 +2,7 @@
 
 namespace EventSystem
 {
+
     class MyEventArgs : EventArgs
     {
         private string time;
@@ -35,6 +36,12 @@ namespace EventSystem
         static event EventHandler onSpacePressed;
         private static event EventHandler<MyEventArgs> onSpacePressed_2;
         static bool end_while = false;
+
+        static void Test_Delegate_Event(string msg2)
+        {
+            Console.WriteLine("==Test_Delegate_Event==");
+            Console.WriteLine($"msg = {msg2}");
+        }
         
         static void Test_onSpacePressed_Event_My(object sender, MyEventArgs e)
         {
@@ -48,10 +55,11 @@ namespace EventSystem
             Console.WriteLine($"==Test_onSpacePressed_Event==");
             Console.WriteLine($"Sender = {sender} and e = {e}");
         }
-
-        
+        delegate void EventHandlerOnDelegate(string msg);
+        static event EventHandlerOnDelegate OnPressUp;
         static void Main()
         {
+            OnPressUp += Test_Delegate_Event;
             onSpacePressed += Test_onSpacePressed_Event;
             onSpacePressed_2 += Test_onSpacePressed_Event;
             onSpacePressed_2 += Test_onSpacePressed_Event_My;
@@ -73,6 +81,9 @@ namespace EventSystem
                 } else if (key_p.ToString() == "102")
                 {
                     if (onSpacePressed_2 != null) onSpacePressed_2("Pressed 'f'", new MyEventArgs(System.DateTime.Now.ToString()));
+                } else if (key_p.ToString() == "103")
+                {
+                    OnPressUp?.Invoke("Now i pressed 'g' and send this msg via delegated event");
                 }
 
                 Console.ReadLine();
