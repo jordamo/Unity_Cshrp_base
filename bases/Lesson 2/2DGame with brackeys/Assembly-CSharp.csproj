@@ -57,7 +57,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\animationScript.cs" />
     <Compile Include="Assets\Brackeys_script_2D.cs" />
+    <Compile Include="Assets\move.cs" />
+    <Compile Include="Assets\moveController.cs" />
     <Compile Include="Assets\PlayerAnimation\Brackeys_code.cs" />
     <Compile Include="Assets\PlayerAnimation\charactrer_move2D.cs" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
